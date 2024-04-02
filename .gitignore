@@ -133,6 +133,7 @@ dist
 
 # IDEs & tools
 .idea/
+.ide-configs/
 .vscode/
 *.code-workspace
 .reports/
